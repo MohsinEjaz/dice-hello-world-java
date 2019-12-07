@@ -15,4 +15,6 @@ pipeline {
                sh 'java -jar target/hello-world-1.jar'
             } 
        }
+    }
 }
+
